@@ -15,4 +15,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/krishnedukuila/leetcode-solution/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/krishnedukuila/leetcode-solution/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/krishnedukuila/leetcode-solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
