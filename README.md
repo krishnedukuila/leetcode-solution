@@ -58,4 +58,12 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnedukuila/leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/krishnedukuila/leetcode-solution/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/krishnedukuila/leetcode-solution/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
