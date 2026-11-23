@@ -11,10 +11,12 @@ class Solution {
 
 
             }
-            else{
-                int profit = prices[i] - minPrice;
-                maxProfit = Math.max(maxProfit, profit);
+            else if(prices[i] - minPrice > maxProfit){
+
+                maxProfit = prices[i] - minPrice;
+
             }
+            
             
         }
         return maxProfit;
