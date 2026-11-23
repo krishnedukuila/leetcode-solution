@@ -21,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/krishnedukuila/leetcode-solution/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/krishnedukuila/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnedukuila/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnedukuila/leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0867-transpose-matrix](https://github.com/krishnedukuila/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnedukuila/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishnedukuila/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnedukuila/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnedukuila/leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Matrix
 |  |
