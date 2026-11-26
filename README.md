@@ -26,6 +26,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/krishnedukuila/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/krishnedukuila/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnedukuila/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/krishnedukuila/leetcode-solution/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/krishnedukuila/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/krishnedukuila/leetcode-solution/tree/master/2574-left-and-right-sum-differences) |
 ## Divide and Conquer
 |  |
 | ------- |
